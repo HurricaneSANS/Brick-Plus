@@ -14,7 +14,7 @@ Done!
 # Updates
 V 1.0.0 - Shop conversion to USD (To CAD, EUROS and more coming soon)
 
-![image](https://user-images.githubusercontent.com/125764413/219884636-f75b0e41-b659-4574-9c90-2f9b7447b46a.png)
+![image](https://user-images.githubusercontent.com/125764413/219884656-49a260f0-b0f2-43ec-932c-95362b642528.png)
 
 # Upcoming 
 Forums - New Features 
