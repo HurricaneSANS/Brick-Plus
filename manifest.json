@@ -19,6 +19,12 @@
       "js": [
         "./lib/shop.js"
       ],
+       "matches": [
+        "https://www.brickplanet.com/forum/thread*"
+      ],
+      "js": [
+        "./lib/forum.js"
+      ],
       "run_at": "document_end"
     }
   ]
