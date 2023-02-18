@@ -16,6 +16,8 @@ V 1.0.0 - Shop conversion to USD (To CAD, EUROS and more coming soon)
 
 ![image](https://user-images.githubusercontent.com/125764413/219884656-49a260f0-b0f2-43ec-932c-95362b642528.png)
 
+V 1.1.0 - Forum embeding. Includes: YouTube Videos and IMGUR. Discord soon.
+
 # Upcoming 
 Forums - New Features 
 More - Don't know yet.
